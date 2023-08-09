@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 -->
 ---
 <a href="ivorrajosemaria@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+    <img height="32" align="left" alt="Mail" src="https://github.com/Ivorra-1996/Ivorra-1996/assets/52852876/b5d10aba-d5d9-43de-be2a-030ecc521ab2" />
 </a>
 
 <a href="https://www.linkedin.com/in/jose-maria-ivorra-47071b207/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="https://github.com/Ivorra-1996/Ivorra-1996/assets/52852876/b36eefc1-2223-45d0-9fff-ed13ada11b95" />
 </a>
 
 <!--- 
@@ -47,10 +47,12 @@ Here are some ideas to get you started:
 </a>
  -->
 <a href="https://www.instagram.com/milanesas_con_pure_bb/?hl=es-la">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="https://github.com/Ivorra-1996/Ivorra-1996/assets/52852876/2c94ef1c-df0a-4236-b126-fc7c6b46ac3a" />
 </a>
 <!--
 <a href="https://dribbble.com/cszach">
     <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
 -->
+
+
