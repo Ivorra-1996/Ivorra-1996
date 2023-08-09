@@ -6,31 +6,35 @@
 - 📫 Cómo contactarme: ivorrajosemaria@gmail.com
 - 😄 Apodos: Pepe.🐸
 - ⚡ Dato curioso: Amante del helado especialmente del chocolate con almendras. 😍
+- 
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivorra-1996&show_icons=true)
 
-<!--
-**Ivorra-1996/Ivorra-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 📑 Actualmente estoy trabajando de medio tiempo en la UNAHUR, como alumno asistente en la materia Organización de computadoras. 🖥️
-- 🌱 Estoy aprendiendo Js y sobre el mundo del backend. 📖
-- 👯 Busco colaborar en...
-- 🤔 Busco ayuda con algún compañer@ que quiere practicar nuevas cosas(metodologías, herramientas ,etc). 👀
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactarme: ivorrajosemaria@gmail.com
-- 😄 Pronombres: Pepe.🐸
-- ⚡ Dato curioso: Amante del helado especialmente del chocolate con almendras. 😍
-
--->
 ---
-<a href="ivorrajosemaria@gmail.com">
-    <img height="32" align="left" alt="Mail" src="https://github.com/Ivorra-1996/Ivorra-1996/assets/52852876/b5d10aba-d5d9-43de-be2a-030ecc521ab2" />
+
+### Skills
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+_Lenguaje de programación favorito:: JS 🤪._  
+
+### Software
+
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+---
+<a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=VpCqJKjvvClQczHzjccXzfpWFSgtmQfnBRLkvbsGwvrVJMrDRdwGNkRwHrKfQvnDdfBKdsQ">
+    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/jose-maria-ivorra-47071b207/">
-    <img height="32" align="left" alt="LinkedIn" src="https://github.com/Ivorra-1996/Ivorra-1996/assets/52852876/b36eefc1-2223-45d0-9fff-ed13ada11b95" />
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
 <!--- 
@@ -47,7 +51,7 @@ Here are some ideas to get you started:
 </a>
  -->
 <a href="https://www.instagram.com/milanesas_con_pure_bb/?hl=es-la">
-    <img height="32" align="left" alt="Instagram" src="https://github.com/Ivorra-1996/Ivorra-1996/assets/52852876/2c94ef1c-df0a-4236-b126-fc7c6b46ac3a" />
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 <!--
 <a href="https://dribbble.com/cszach">
