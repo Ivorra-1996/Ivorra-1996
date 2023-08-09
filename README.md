@@ -27,6 +27,10 @@ _Lenguaje de programación favorito:: JS 🤪._
 ### Software
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+<a>
+    <img height="40" align="left" alt="postgresql" src="img/pngwing.com.png" />
+</a>
+
 
 ---
 <a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=VpCqJKjvvClQczHzjccXzfpWFSgtmQfnBRLkvbsGwvrVJMrDRdwGNkRwHrKfQvnDdfBKdsQ">
