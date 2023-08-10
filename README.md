@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+```Js
+class Devbackend {
+    constructor() {
+        this.name = "Ivorra Jose Maria";
+        this.role = "development backend";
+        this.apodos = ["Pepe", "Pipex","JoseMa"];
+        this.gmail = "ivorrajosemaria@gmail.com";
+    }
+
+    saludo() {
+        console.log("Thanks for dropping by, hope you find some of my work interesting.");
+    }
+}
+
+const pepe = new Devbackend();
+pepe.saludo();
+```
+
 - 📑 Actualmente estoy trabajando de medio tiempo en la UNAHUR, como alumno asistente en la materia Organización de computadoras. 🖥️
 - 🌱 Estoy aprendiendo Js y sobre el mundo del backend. 📖
 - 🤔 Busco ayuda con algún compañer@ que quiere practicar nuevas cosas(metodologías, herramientas ,etc). 👀
@@ -8,7 +26,7 @@
 - ⚡ Dato curioso: Amante del helado especialmente del chocolate con almendras. 😍
 - 
 ---
-
+ñ
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivorra-1996&show_icons=true)
 
 ---
