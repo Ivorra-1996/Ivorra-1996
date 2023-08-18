@@ -19,7 +19,7 @@ class Devbackend {
 const pepe = new Devbackend();
 pepe.saludo();
 ```
-_Si estás buscando un programador entusiasta y dedicado para unirse a tu equipo, bueno me encontraste ¡me encantaría conectarme contigo y ver cómo contribuir al éxito de tu organización! Actualmente me estoy centrando más en la rama de desarrollador backend, es algo que me interesa bastante por el momento...._
+_Si estás buscando un programador entusiasta y dedicado para unirse a tu equipo, bueno me encontraste ¡Me encantaría conectarme contigo y ver cómo contribuir al éxito de tu organización! Actualmente me estoy centrando más en la rama de desarrollador backend, es algo que me interesa bastante por el momento...._
 - 🌱 Estoy aprendiendo Js, nuevos frameworks y sobre el mundo del backend. 📖
 - 🤔 Busco siempre aprender nuevas cosas relacionadas al mundo de IT. 👀
 - ⚡ Dato curioso: Amante del helado especialmente del chocolate con almendras. 😍
