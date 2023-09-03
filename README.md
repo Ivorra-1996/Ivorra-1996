@@ -5,7 +5,7 @@ class Devbackend {
     constructor() {
         this.name = "Ivorra Jose Maria";
         this.role = "Development backend";
-        this.titlos = ["Tecnico en Informática"];
+        this.titulos = ["Tecnico en Informática"];
         this.titulosEnCurso = ["Lic. en Informática"];
         this.apodos = ["Pepe", "Pipex","JoseMa"];
         this.gmail = "ivorrajosemaria@gmail.com";
