@@ -31,8 +31,6 @@ _Si estás buscando un programador entusiasta y dedicado para unirse a tu equipo
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
-_Lenguaje de programación favorito:: JS 🤪._  
-
 ### Software
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
