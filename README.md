@@ -19,16 +19,12 @@ class Devbackend {
 const pepe = new Devbackend();
 pepe.saludo();
 ```
-_Si estás buscando un programador entusiasta y dedicado para unirse a tu equipo, bueno me encontraste ¡Me encantaría conectarme contigo y ver cómo contribuir al éxito de tu organización! Actualmente me estoy centrando más en la rama de desarrollador backend, es algo que me interesa bastante por el momento...._
-- 🌱 Estoy aprendiendo Js, nuevos frameworks y sobre el mundo del backend. 📖
-- 🤔 Busco siempre aprender nuevas cosas relacionadas al mundo de IT. 👀
-- ⚡ Dato curioso: Amante del helado especialmente del chocolate con almendras. 😍
+_Si estás buscando un programador entusiasta y dedicado para unirse a tu equipo, bueno me encontraste ¡Me encantaría conectarme contigo y ver cómo contribuir al éxito de tu organización! Actualmente me estoy centrando más en la rama de desarrollador backend, es algo que me interesa bastante por el momento....
 
 
 ---
 
 ### Skills
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
